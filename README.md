@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aqeel 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aqeel&label=Profile%20views&color=0eb48b" alt="aqeel" /> </p>
 
-<h3 align="center">🌐 Foundation Student & Aspiring Software Developer 🌐</h3>
+<h3 align="center">👨‍💻 Cybersecurity Enthusiast | Offensive Security & Ethical Hacking</h3>
 
 <p align="center">
   <a href="[https://github.com/aqeel](https://github.com/Aqeeel12)" target="blank"><img src="https://img.shields.io/badge/GitHub-Aqeel-green?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -12,23 +12,24 @@
 ---
 
 ## 👨‍💻 About Me
+I am a cybersecurity enthusiast and aspiring penetration tester focused on offensive security and vulnerability research. I am currently pursuing and strengthening my technical background in ethical hacking, network security assessment, and cryptographic systems, with hands-on experience in identifying vulnerabilities and improving system defenses.
 
 🎓 Cybersecurity Major | B.Sc. (Hons) Computer Science Student at Al-Bukhary International University, Malaysia
 
-- 🔭 Currently working on enhancing my **Python, C, and Web Development** skills.
-- 🌱 Always learning **coding, cybersecurity, and project management**.
-- 💬 Ask me about **coding, rugby, or student leadership**.
-- 📫 Contact me: aqeelmasroor741@gmail.com
+🔐 Building a strong foundation in secure programming, computer networking, cloud technologies, DevOps, and system security, supported by practical labs and security-focused projects.
 
----
+🧪 Actively exploring penetration testing methodologies, vulnerability assessment, threat modeling, and secure system design, with continuous practice using industry-standard tools and platforms.
+
+🚀 Currently learning: Advanced offensive security strategies, exploitation techniques, and modern attack/defense frameworks.
+
+🎯 Career Goal: Secure an internship or entry-level role as a  Penetration Tester to gain real-world experience, contribute to security teams, and pursue professional certifications (e.g., CEH, Security+, OSCP).
 
 
 
----
 
  🛡 Cyber Engineering Toolkit
 
-| Domain | Technologies |
+
 |--------|--------------|
 | 💻 Programming & Scripting | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | ⚙️ Automation & DevOps Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
