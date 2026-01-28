@@ -36,7 +36,7 @@ I am a cybersecurity enthusiast and aspiring penetration tester focused on offen
 
 - 🎯 **Career Goal:** Secure an internship or entry-level role as a Penetration Tester, gain real-world experience, contribute to security teams, and pursue professional certifications (e.g., CEH, Security+, OSCP)
 
-
+---
  🛡 Cyber Engineering Toolkit
 
 
