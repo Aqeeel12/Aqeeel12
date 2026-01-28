@@ -23,17 +23,19 @@
 
 ---
 ## 👨‍💻 About Me
+
 I am a cybersecurity enthusiast and aspiring penetration tester focused on offensive security and vulnerability research. I am currently pursuing and strengthening my technical background in ethical hacking, network security assessment, and cryptographic systems, with hands-on experience in identifying vulnerabilities and improving system defenses.
--🎓 Cybersecurity Major, B.Sc. (Hons) Computer Science Student at Al-Bukhary International University, Malaysia
 
--🔐 Building a strong foundation in secure programming, computer networking, cloud technologies, DevOps, system security, supported by practical labs and security-focused projects
+- 🎓 **Cybersecurity Major**, B.Sc. (Hons) Computer Science Student at Al-Bukhary International University, Malaysia
 
--🧪 Actively exploring penetration testing methodologies, vulnerability assessment, threat modeling, secure system design, with continuous practice using industry-standard tools and platforms
+- 🔐 **Building a strong foundation in** secure programming, computer networking, cloud technologies, DevOps, system security, supported by practical labs and security-focused projects
 
--🚀 Currently learning advanced offensive security strategies, exploitation techniques, modern attack/defense frameworks
+- 🧪 **Actively exploring** penetration testing methodologies, vulnerability assessment, threat modeling, secure system design, with continuous practice using industry-standard tools and platforms
 
--🎯 Career Goal: Secure an internship or entry-level role as a Penetration Tester, gain real-world experience, contribute to security teams, and pursue professional certifications (e.g., CEH, Security+, OSCP)
----
+- 🚀 **Currently learning** advanced offensive security strategies, exploitation techniques, modern attack/defense frameworks
+
+- 🎯 **Career Goal:** Secure an internship or entry-level role as a Penetration Tester, gain real-world experience, contribute to security teams, and pursue professional certifications (e.g., CEH, Security+, OSCP)
+
 
  🛡 Cyber Engineering Toolkit
 
