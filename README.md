@@ -104,11 +104,11 @@ Focuses on **input validation, password handling**, and secure coding practices.
 [![Twitter](https://img.shields.io/badge/Twitter-Aqeel-blue?style=for-the-badge&logo=twitter)](https://twitter.com/aqeel)
 
 ---
-🎯**Fun Facts & Motto**
+🎯 **Fun Facts & Motto**
 
-💻 Passionate coder who loves solving real-world security challenges
-🕵️‍♂️ Practicing ethical hacking and penetration testing in virtual labs
-🎮 Former rugby captain—teamwork, strategy, and leadership on and off the field
-🤖 Fascinated by AI, cybersecurity automation, and digital forensics
-💡 Motto: “Secure, explore, and innovate because every system has a story.”
+- 💻 Passionate coder who loves solving real-world security challenges  
+- 🕵️‍♂️ Practicing ethical hacking and penetration testing in virtual labs  
+- 🎮 Former National athlete — teamwork, strategy, and leadership on and off the field  
+- 🤖 Fascinated by AI, cybersecurity automation, and digital forensics  
+- 💡 **Motto:** “Secure, explore, and innovate  because every system has a story.”
 
