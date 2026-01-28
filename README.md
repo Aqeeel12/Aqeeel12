@@ -6,20 +6,18 @@
 <h3 align="center">👨‍💻 Cybersecurity Enthusiast | Offensive Security & Ethical Hacking</h3>
 
 <p align="center">
-  <a href="https://github.com/Aqeeel12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Aqeel-green?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/aqeel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aqeel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/aqeel" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Aqeel-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://aqeel-personal-site.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Aqeel-red?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-F05032?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:aqeelmasroor741@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-aqeelmasroor741@gmail.com-yellow?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
