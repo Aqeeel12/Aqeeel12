@@ -12,7 +12,7 @@
 </p>
 
 ---
-
+---
 ## 👨‍💻 About Me
 I am a cybersecurity enthusiast and aspiring penetration tester focused on offensive security and vulnerability research. I am currently pursuing and strengthening my technical background in ethical hacking, network security assessment, and cryptographic systems, with hands-on experience in identifying vulnerabilities and improving system defenses.
 
@@ -26,8 +26,8 @@ I am a cybersecurity enthusiast and aspiring penetration tester focused on offen
 
 🎯 Career Goal: Secure an internship or entry-level role as a  Penetration Tester to gain real-world experience, contribute to security teams, and pursue professional certifications (e.g., CEH, Security+, OSCP).
 
-
-
+---
+---
 
  🛡 Cyber Engineering Toolkit
 
@@ -48,17 +48,19 @@ I am a cybersecurity enthusiast and aspiring penetration tester focused on offen
 
 ## 🚀 Projects
 
-### Project 1: Bus Reservation System (Python)
-A simple system where users can register, login, and book seats for buses. Admin can manage buses and users.  
-- GitHub: [Bus Reservation System](https://github.com/aqeel/bus-reservation-system)
+---
 
-### Project 2: Personal Portfolio Website
-My portfolio website built with **HTML, CSS, and JS** to showcase my projects and skills.  
-- GitHub: [Portfolio Website](https://github.com/aqeel/aqeel-personal-site)
+### 🐍 **HandWave-Snake**
+*Python-based snake game with fun interactions and updated features.*  
+[![GitHub](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge&logo=github)](https://github.com/Aqeeel12/HandWave-Snake)
 
-### Project 3: Library Management System (C)
-A system to manage library books efficiently, including adding, listing, and searching books.  
-- GitHub: [Library Management System](https://github.com/aqeel/library-management-system)
+---
+
+### 🔒 **CodeAlpha Secure Login Project**
+*Python project focusing on secure login, input validation, and password handling.*  
+[![GitHub](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge&logo=github)](https://github.com/Aqeeel12/codealpha_tasks_secure-login-project)
+
+---
 
 ---
 
