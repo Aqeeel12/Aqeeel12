@@ -1,17 +1,29 @@
 <h1 align="center">Hi there, I'm Aqeel 👋</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aqeel&label=Profile%20views&color=0eb48b" alt="aqeel" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aqeel&label=Profile%20views&color=0eb48b" alt="aqeel" />
+</p>
 
 <h3 align="center">👨‍💻 Cybersecurity Enthusiast | Offensive Security & Ethical Hacking</h3>
 
 <p align="center">
-<a href="https://github.com/Aqeeel12" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Aqeel-green?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-  <a href="https://www.linkedin.com/in/aqeel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Aqeel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/aqeel" target="blank"><img src="https://img.shields.io/badge/Twitter-Aqeel-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+  <a href="https://github.com/Aqeeel12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Aqeel-green?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aqeel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aqeel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/aqeel" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Aqeel-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://aqeel-personal-site.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Aqeel-red?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+  </a>
+  <a href="mailto:aqeelmasroor741@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-aqeelmasroor741@gmail.com-yellow?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
----
+
 ---
 ## 👨‍💻 About Me
 I am a cybersecurity enthusiast and aspiring penetration tester focused on offensive security and vulnerability research. I am currently pursuing and strengthening my technical background in ethical hacking, network security assessment, and cryptographic systems, with hands-on experience in identifying vulnerabilities and improving system defenses.
@@ -26,7 +38,7 @@ I am a cybersecurity enthusiast and aspiring penetration tester focused on offen
 
 🎯 Career Goal: Secure an internship or entry-level role as a  Penetration Tester to gain real-world experience, contribute to security teams, and pursue professional certifications (e.g., CEH, Security+, OSCP).
 
----
+
 ---
 
  🛡 Cyber Engineering Toolkit
@@ -41,14 +53,14 @@ I am a cybersecurity enthusiast and aspiring penetration tester focused on offen
 | 🗂 Configuration & Data Formats | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white) ![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge) ![INI](https://img.shields.io/badge/INI_Config-795548?style=for-the-badge) |
 | 🐧 Operating Systems & Administration | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15AABF?style=for-the-badge) |
 
----
+
 
 
 ---
 
 ## 🚀 Projects
 
----
+
 
 <div style="border:2px solid #4CAF50; border-radius:10px; padding:15px; margin-bottom:20px;">
 
@@ -77,7 +89,7 @@ Focuses on **input validation, password handling**, and secure coding practices.
 </div>
 
 
----
+
 
 ---
 
