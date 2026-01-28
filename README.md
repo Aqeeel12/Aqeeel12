@@ -10,13 +10,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&color=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/aqeel" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black&color=1DA1F2" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&color=000000" alt="Twitter" />
   </a>
   <a href="https://aqeel-personal-site.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=black&color=6A0DAD" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=FFD700&color=6A0DAD" alt="Portfolio" />
   </a>
   <a href="mailto:aqeelmasroor741@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=black&color=D14836" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF" alt="Email" />
   </a>
 </p>
 
