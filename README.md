@@ -1,22 +1,4 @@
 <h1 align="center">Hi there, I'm Aqeel Maseeroor 👋</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aqeel" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&color=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/aqeel" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&color=000000" alt="Twitter" />
-  </a>
-  <a href="https://aqeel-personal-site.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-6A0DAD?style=for-the-badge&logo=star&logoColor=FFD700&color=6A0DAD" alt="Portfolio" />
-  </a>
-  <a href="mailto:aqeelmasroor741@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-F8F8F8?style=for-the-badge&logo=gmail&logoColor=FF0000&color=F8F8F8" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi%20there%2C%20I'm%20Aqeel%20👋-Coding%20&%20Hacking-00ff99?style=for-the-badge&logo=ghost&logoColor=white&animation=blink" alt="Hi there, I'm Aqeel" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqeel&label=Profile%20views&color=0eb48b" alt="aqeel" />
