@@ -50,15 +50,32 @@ I am a cybersecurity enthusiast and aspiring penetration tester focused on offen
 
 ---
 
+<div style="border:2px solid #4CAF50; border-radius:10px; padding:15px; margin-bottom:20px;">
+
 ### 🐍 **HandWave-Snake**
-*Python-based snake game with fun interactions and updated features.*  
+**Python-based game controlled by hand gestures through a webcam.**  
+A classic Nokia Snake game where the snake is controlled using **MediaPipe** and **OpenCV** to detect hand movements in real time. Fun, interactive, and great for learning game logic and computer vision.
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+
 [![GitHub](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge&logo=github)](https://github.com/Aqeeel12/HandWave-Snake)
+
+</div>
 
 ---
 
+<div style="border:2px solid #FF5722; border-radius:10px; padding:15px; margin-bottom:20px;">
+
 ### 🔒 **CodeAlpha Secure Login Project**
-*Python project focusing on secure login, input validation, and password handling.*  
+**Python project implementing secure login systems.**  
+Focuses on **input validation, password handling**, and secure coding practices. Great for learning real-world authentication security and Python programming best practices.
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 [![GitHub](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge&logo=github)](https://github.com/Aqeeel12/codealpha_tasks_secure-login-project)
+
+</div>
+
 
 ---
 
