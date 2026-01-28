@@ -4,7 +4,7 @@
 <h3 align="center">🌐 Foundation Student & Aspiring Software Developer 🌐</h3>
 
 <p align="center">
-  <a href="https://github.com/aqeel" target="blank"><img src="https://img.shields.io/badge/GitHub-Aqeel-green?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="[https://github.com/aqeel](https://github.com/Aqeeel12)" target="blank"><img src="https://img.shields.io/badge/GitHub-Aqeel-green?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/aqeel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Aqeel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/aqeel" target="blank"><img src="https://img.shields.io/badge/Twitter-Aqeel-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
 </p>
@@ -13,19 +13,16 @@
 
 ## 👨‍💻 About Me
 
-I'm Aqeel, a foundation student at Albukhary International University. Passionate about **software development, coding, cybersecurity, and sports leadership**. I aim to create meaningful projects and grow my tech skills step by step.
+🎓 Cybersecurity Major | B.Sc. (Hons) Computer Science Student at Al-Bukhary International University, Malaysia
 
 - 🔭 Currently working on enhancing my **Python, C, and Web Development** skills.
 - 🌱 Always learning **coding, cybersecurity, and project management**.
 - 💬 Ask me about **coding, rugby, or student leadership**.
-- 📫 Contact me: [aqeel@example.com](mailto:aqeel@example.com)
+- 📫 Contact me: aqeelmasroor741@gmail.com
 
 ---
 
-## 🎓 Education
 
-- Foundation Program, Albukhary International University  
-- High School: Completed with active participation in sports and leadership roles
 
 ---
 
@@ -40,12 +37,39 @@ I'm Aqeel, a foundation student at Albukhary International University. Passionat
 
 ---
 
-## 🔧 Tools & Software
+## 💻 Programming & Scripting
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- **IDE & Editors:** VS Code, PyCharm, CodeBlocks  
-- **Version Control:** Git & GitHub  
-- **Security & Networking:** Basic cybersecurity tools (learning phase)  
-- **Office Tools:** Word, Excel, PowerPoint  
+---
+
+## ⚙️ Automation & Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🔐 System Security Basics
+![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge)
+![Access Control](https://img.shields.io/badge/Access_Control-4CAF50?style=for-the-badge)
+![System Hardening](https://img.shields.io/badge/System_Hardening-607D8B?style=for-the-badge)
+
+---
+
+## 🗂 Data Formatting & Configuration
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge)
+![INI](https://img.shields.io/badge/INI_Config-795548?style=for-the-badge)
+
+---
+
+## 🐧 Operating Systems & System Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15AABF?style=for-the-badge)
 
 ---
 
