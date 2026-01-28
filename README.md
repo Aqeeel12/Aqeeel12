@@ -13,13 +13,12 @@
     <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&color=000000" alt="Twitter" />
   </a>
   <a href="https://aqeel-personal-site.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=FFD700&color=6A0DAD" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-6A0DAD?style=for-the-badge&logo=star&logoColor=FFD700&color=6A0DAD" alt="Portfolio" />
   </a>
   <a href="mailto:aqeelmasroor741@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-F8F8F8?style=for-the-badge&logo=gmail&logoColor=FF0000&color=F8F8F8" alt="Email" />
   </a>
 </p>
-
 
 ---
 ## 👨‍💻 About Me
