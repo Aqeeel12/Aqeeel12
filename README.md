@@ -24,18 +24,15 @@
 ---
 ## 👨‍💻 About Me
 I am a cybersecurity enthusiast and aspiring penetration tester focused on offensive security and vulnerability research. I am currently pursuing and strengthening my technical background in ethical hacking, network security assessment, and cryptographic systems, with hands-on experience in identifying vulnerabilities and improving system defenses.
+-🎓 Cybersecurity Major, B.Sc. (Hons) Computer Science Student at Al-Bukhary International University, Malaysia
 
-🎓 Cybersecurity Major | B.Sc. (Hons) Computer Science Student at Al-Bukhary International University, Malaysia
+-🔐 Building a strong foundation in secure programming, computer networking, cloud technologies, DevOps, system security, supported by practical labs and security-focused projects
 
-🔐 Building a strong foundation in secure programming, computer networking, cloud technologies, DevOps, and system security, supported by practical labs and security-focused projects.
+-🧪 Actively exploring penetration testing methodologies, vulnerability assessment, threat modeling, secure system design, with continuous practice using industry-standard tools and platforms
 
-🧪 Actively exploring penetration testing methodologies, vulnerability assessment, threat modeling, and secure system design, with continuous practice using industry-standard tools and platforms.
+-🚀 Currently learning advanced offensive security strategies, exploitation techniques, modern attack/defense frameworks
 
-🚀 Currently learning: Advanced offensive security strategies, exploitation techniques, and modern attack/defense frameworks.
-
-🎯 Career Goal: Secure an internship or entry-level role as a  Penetration Tester to gain real-world experience, contribute to security teams, and pursue professional certifications (e.g., CEH, Security+, OSCP).
-
-
+-🎯 Career Goal: Secure an internship or entry-level role as a Penetration Tester, gain real-world experience, contribute to security teams, and pursue professional certifications (e.g., CEH, Security+, OSCP)
 ---
 
  🛡 Cyber Engineering Toolkit
@@ -105,5 +102,11 @@ Focuses on **input validation, password handling**, and secure coding practices.
 [![Twitter](https://img.shields.io/badge/Twitter-Aqeel-blue?style=for-the-badge&logo=twitter)](https://twitter.com/aqeel)
 
 ---
+🎯**Fun Facts & Motto**
 
-✨ **Feel free to explore my repositories, connect, and collaborate!**
+💻 Passionate coder who loves solving real-world security challenges
+🕵️‍♂️ Practicing ethical hacking and penetration testing in virtual labs
+🎮 Former rugby captain—teamwork, strategy, and leadership on and off the field
+🤖 Fascinated by AI, cybersecurity automation, and digital forensics
+💡 Motto: “Secure, explore, and innovate because every system has a story.”
+
