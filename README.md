@@ -29,15 +29,13 @@ I am a cybersecurity enthusiast and aspiring penetration tester focused on offen
 
  🛡 Cyber Engineering Toolkit
 
-
-| 💻 Programming & Scripting | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ⚙️ Automation & DevOps Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| 🌐 Network & Security Tools | ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge) ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge) |
-| 🔐 System & Security Fundamentals | ![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge) ![Access Control](https://img.shields.io/badge/Access_Control-4CAF50?style=for-the-badge) ![Hardening](https://img.shields.io/badge/System_Hardening-607D8B?style=for-the-badge) |
-| 🗂 Configuration & Data Formats | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white) ![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge) ![INI](https://img.shields.io/badge/INI_Config-795548?style=for-the-badge) |
-| 🐧 Operating Systems & Administration | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot_OS-15AABF?style=for-the-badge) |
-
+|---|---|
+| 💻 Programming & Scripting | C • Python • Bash |
+| ⚙️ Automation & DevOps Tools | Git • GitHub • Docker |
+| 🌐 Network & Security Tools | Nmap • Wireshark • Burp • Metasploit |
+| 🔐 System & Security Fundamentals | Firewall • Access Control • Hardening |
+| 🗂 Configuration & Data Formats | JSON • YAML • XML • INI |
+| 🐧 Operating Systems & Administration | Linux • Ubuntu • Parrot |
 
 ---
 
