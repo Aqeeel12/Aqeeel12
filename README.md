@@ -8,15 +8,17 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aqeel-maseeroor-08b599351/" target="_blank">
-    LinkedIn
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&color=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/aqeel" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&color=000000" alt="Twitter" />
-  </a>
-  <a href="https://aqeeel12.github.io/aqeel-personal-site/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&color=0A66C2" alt="LinkedIn" />
+</a>
+
+<a href="https://twitter.com/aqeel" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&color=000000" alt="Twitter" />
+</a>
+
+<a href="https://aqeeel12.github.io/aqeel-personal-site/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-6A0DAD?style=for-the-badge&logo=star&logoColor=FFD700&color=6A0DAD" alt="Portfolio" />
 </a>
+
 
   <a href="mailto:aqeelmasroor741@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-F8F8F8?style=for-the-badge&logo=gmail&logoColor=FF0000&color=F8F8F8" alt="Email" />
