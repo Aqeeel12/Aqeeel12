@@ -7,7 +7,8 @@
 <h3 align="center">👨‍💻 Cybersecurity Enthusiast | Offensive Security & Ethical Hacking</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/aqeel-maseeroor-08b599351" target="_blank">
+<a href="https://www.linkedin.com/in/aqeel-maseeroor-08b599351/" target="_blank">
+    LinkedIn
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&color=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/aqeel" target="_blank">
